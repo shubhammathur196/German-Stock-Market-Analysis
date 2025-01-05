@@ -54,13 +54,13 @@ This project analyzes trends and patterns in the **German stock market** using P
 - **Power BI:** For interactive visualizations and dashboards.  
 
 ---
+### Folder Structure
+├── data/               # Raw datasets and cleaned versions  
+├── sql/                # SQL scripts for data extraction and transformation  
+├── dashboards/         # Power BI reports (.pbix files)  
+├── powerquery/         # Power Query M-code scripts or transformations  
+├── README.md           # Project documentation  
 
-### Folder Structure 📂  
-├── data/ # Raw and processed datasets
-├── notebooks/ # Jupyter notebooks for analysis
-├── dashboards/ # Power BI reports and visualizations
-├── models/ # Machine learning models and scripts
-├── README.md # Project documentation
 
 
 ---
